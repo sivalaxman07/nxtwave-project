@@ -16,7 +16,7 @@ const Pagination = ({ postsPerPage, totalPosts, paginate }) => {
               // var element = document.getElementById(number);
               // element.classList.toggle("active");
               // document.getElementsByTagName("a").classList.toggle("active")
-              paginate(number)}} href='!#'>
+              paginate(number)}} >
               {number}
             </a>
         ))}

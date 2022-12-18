@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nxtwave-project/static/css/main.c86fa4fa.css",
-    "main.js": "/nxtwave-project/static/js/main.e3a63030.js",
+    "main.js": "/nxtwave-project/static/js/main.3943845f.js",
     "static/media/formicon.svg": "/nxtwave-project/static/media/formicon.41e2b34d16da073ab178599896a98554.svg",
     "static/media/profile.svg": "/nxtwave-project/static/media/profile.c97a14eabd1c82a90c3da911020bd78f.svg",
     "index.html": "/nxtwave-project/index.html",
     "static/media/search.svg": "/nxtwave-project/static/media/search.5b5a4c487f8a9f8dc23782b3c9d54a35.svg",
     "main.c86fa4fa.css.map": "/nxtwave-project/static/css/main.c86fa4fa.css.map",
-    "main.e3a63030.js.map": "/nxtwave-project/static/js/main.e3a63030.js.map"
+    "main.3943845f.js.map": "/nxtwave-project/static/js/main.3943845f.js.map"
   },
   "entrypoints": [
     "static/css/main.c86fa4fa.css",
-    "static/js/main.e3a63030.js"
+    "static/js/main.3943845f.js"
   ]
 }

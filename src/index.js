@@ -33,7 +33,7 @@ function App() {
 	};
 	useEffect(() => {
 		getBlogRequest()
-	},[seacrhValue]);
+	},[]);
 
 {/* {loading && <h2>Loading... Please Wait</h2>}
     {!loading &&<>
